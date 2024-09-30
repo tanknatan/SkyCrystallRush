@@ -5,7 +5,7 @@ package com.Find.the.Difference.Spheres.data
 
 import android.content.Context
 import android.media.MediaPlayer
-import com.ArcadeGameFly.SkyCrystallRush.R
+import com.Find.the.Difference.Spheres.R
 
 
 object SoundManager {

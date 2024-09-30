@@ -29,7 +29,7 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.ArcadeGameFly.SkyCrystallRush.R
+import com.Find.the.Difference.Spheres.R
 import com.Find.the.Difference.Spheres.data.Levels
 import com.Find.the.Difference.Spheres.data.SoundManager
 import com.Find.the.Difference.Spheres.presentation.navigation.OutlinedText
