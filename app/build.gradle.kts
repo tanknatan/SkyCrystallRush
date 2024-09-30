@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.ArcadeGameFly.SkyCrystallRush"
+    namespace = "com.Find.the.Difference.Spheres"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.ArcadeGameFly.SkyCrystallRush"
+        applicationId = "com.Find.the.Difference.Spheres"
         minSdk = 28
         targetSdk = 34
         versionCode = 1
